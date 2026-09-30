@@ -1,0 +1,9 @@
+{
+  "id": "A-1004",
+  "customer_id": "leo",
+  "placed_at": "11:45",
+  "lines": [
+    {"item_id": "latte", "size": "M", "modifier_ids": ["oat_milk", "vanilla"]},
+    {"item_id": "croissant"}
+  ]
+}

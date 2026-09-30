@@ -1,0 +1,12 @@
+{
+  "drip": 40,
+  "latte": 40,
+  "chai": 25,
+  "cold_brew": 12,
+  "muffin": 6,
+  "croissant": 0,
+  "extra_shot": 60,
+  "vanilla": 20,
+  "whole_milk": 30,
+  "oat_milk": 0
+}

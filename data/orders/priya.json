@@ -1,0 +1,10 @@
+{
+  "id": "A-1003",
+  "customer_id": "priya",
+  "placed_at": "14:30",
+  "lines": [
+    {"item_id": "chai", "size": "L", "modifier_ids": ["vanilla"]},
+    {"item_id": "latte", "size": "M"},
+    {"item_id": "muffin"}
+  ]
+}

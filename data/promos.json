@@ -1,0 +1,6 @@
+[
+  {"id": "happy_hour", "name": "Happy Hour", "percent_off": 20, "category": "drink",
+   "starts": "14:00", "ends": "16:00"},
+  {"id": "early_bird", "name": "Early Bird", "percent_off": 10, "category": "food",
+   "starts": "06:00", "ends": "08:00"}
+]

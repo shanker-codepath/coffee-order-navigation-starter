@@ -1,0 +1,20 @@
+{
+  "items": [
+    {"id": "drip", "name": "Drip Coffee", "category": "drink", "base_price_cents": 250,
+     "size_upcharges": {"S": 0, "M": 50, "L": 100}},
+    {"id": "latte", "name": "Latte", "category": "drink", "base_price_cents": 425,
+     "size_upcharges": {"S": 0, "M": 50, "L": 100}},
+    {"id": "chai", "name": "Chai Latte", "category": "drink", "base_price_cents": 450,
+     "size_upcharges": {"S": 0, "M": 50, "L": 100}},
+    {"id": "cold_brew", "name": "Cold Brew", "category": "drink", "base_price_cents": 400,
+     "size_upcharges": {"M": 0, "L": 75}},
+    {"id": "muffin", "name": "Blueberry Muffin", "category": "food", "base_price_cents": 350},
+    {"id": "croissant", "name": "Butter Croissant", "category": "food", "base_price_cents": 375}
+  ],
+  "modifiers": [
+    {"id": "extra_shot", "name": "Extra Shot", "price_cents": 75},
+    {"id": "vanilla", "name": "Vanilla Syrup", "price_cents": 50},
+    {"id": "whole_milk", "name": "Whole Milk", "price_cents": 0},
+    {"id": "oat_milk", "name": "Oat Milk", "price_cents": 75, "substitute_id": "whole_milk"}
+  ]
+}

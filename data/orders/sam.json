@@ -1,0 +1,9 @@
+{
+  "id": "A-1002",
+  "customer_id": "sam",
+  "placed_at": "16:00",
+  "lines": [
+    {"item_id": "cold_brew", "size": "L"},
+    {"item_id": "drip", "size": "M", "quantity": 2}
+  ]
+}
